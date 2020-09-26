@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetD16_POS Pin=D16-POS
+Added Pin To Net: NetName=NetD16_POS Pin=TP13-PAD
+Added Net: Name=NetD16_POS
+Added Member To Class: ClassName=SolarPanel4 Member=Component S3 SOLAR_CELL
+Added Member To Class: ClassName=SolarPanel4 Member=Component S4 SOLAR_CELL

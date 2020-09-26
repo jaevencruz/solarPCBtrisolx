@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:31:57 PM On 9/16/2020
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [SolarPanel.PcbDoc]
+   Generated File[[No Variations].step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:31:57 PM On 9/16/2020

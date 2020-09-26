@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetD8_NEG Pin=D8-NEG
+Removed Pin From Net: NetName=NetD8_NEG Pin=D9-POS
+Removed Pin From Net: NetName=NetD15_NEG Pin=D15-NEG
+Removed Pin From Net: NetName=NetD22_NEG Pin=D22-NEG
+Removed Pin From Net: NetName=NetD22_NEG Pin=D23-POS
+Removed Pin From Net: NetName=NetD29_NEG Pin=D29-NEG
+Added Pin To Net: NetName=NetD22_NEG Pin=D9-POS
+Added Pin To Net: NetName=NetD8_NEG Pin=D23-POS
+Change Net Name : Old Net Name=NetD8_NEG New Net Name=NetD23_POS
+Change Net Name : Old Net Name=NetD15_NEG New Net Name=NetD16_POS
+Change Net Name : Old Net Name=NetD22_NEG New Net Name=NetD9_POS
+Change Net Name : Old Net Name=NetD29_NEG New Net Name=NetD30_POS

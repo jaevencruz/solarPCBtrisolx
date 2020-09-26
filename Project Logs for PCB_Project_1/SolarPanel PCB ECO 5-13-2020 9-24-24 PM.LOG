@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=D21-NEG
+Added Pin To Net: NetName=NetS29_- Pin=D21-POS
+Added Pin To Net: NetName=NetJ1_1 Pin=D22-POS
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetD22_POS
+Change Net Name : Old Net Name=NetS29_- New Net Name=NetD21_POS

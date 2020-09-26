@@ -1,0 +1,588 @@
+Added Component: Designator=D1(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D7(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D8(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D9(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D10(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D11(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D12(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D13(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D14(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D15(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D16(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D17(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D18(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D19(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D20(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D21(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D22(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D23(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D24(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D25(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D26(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D27(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D28(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D29(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D30(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D31(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D32(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D33(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D34(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D35(SB_DIODE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Solar_Fadi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SCHOTTKY_DIODE_B120-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J1(5040500491)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70331790"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/molex-incorporated-5040500491/70331790/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/5040500691_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5040500491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S1(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S2(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S3(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S4(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S5(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S6(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S7(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S8(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S9(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S10(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S11(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S12(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S13(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S14(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S15(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S16(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S17(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S18(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S19(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S20(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S21(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S22(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S23(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S24(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S25(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S26(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S27(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S28(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S29(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S30(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S31(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S32(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S33(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S34(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S35(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S36(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S37(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S38(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S39(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S40(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S41(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S42(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S43(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S44(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S45(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S46(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S47(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S48(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S49(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S50(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S51(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S52(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S53(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S54(SOLAR_CELL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP1(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP6(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP7(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP8(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP9(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP10(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP11(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP12(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP13(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP14(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP15(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP16(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP17(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP18(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP19(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP20(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP21(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP22(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP23(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP24(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP25(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP26(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP27(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP28(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP29(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP30(TEST_POINT)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=D7-POS
+Added Pin To Net: NetName=GND Pin=D14-POS
+Added Pin To Net: NetName=GND Pin=D21-POS
+Added Pin To Net: NetName=GND Pin=D28-POS
+Added Pin To Net: NetName=GND Pin=D35-POS
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_NEG Pin=D1-NEG
+Added Pin To Net: NetName=NetD1_NEG Pin=D2-POS
+Added Net: Name=NetD1_NEG
+Added Pin To Net: NetName=NetD2_NEG Pin=D2-NEG
+Added Pin To Net: NetName=NetD2_NEG Pin=D9-NEG
+Added Pin To Net: NetName=NetD2_NEG Pin=D16-NEG
+Added Pin To Net: NetName=NetD2_NEG Pin=D23-NEG
+Added Pin To Net: NetName=NetD2_NEG Pin=D30-NEG
+Added Net: Name=NetD2_NEG
+Added Pin To Net: NetName=NetD3_NEG Pin=D3-NEG
+Added Pin To Net: NetName=NetD3_NEG Pin=TP2-PAD
+Added Net: Name=NetD3_NEG
+Added Pin To Net: NetName=NetD3_POS Pin=D3-POS
+Added Pin To Net: NetName=NetD3_POS Pin=D4-NEG
+Added Pin To Net: NetName=NetD3_POS Pin=TP3-PAD
+Added Net: Name=NetD3_POS
+Added Pin To Net: NetName=NetD4_POS Pin=D4-POS
+Added Pin To Net: NetName=NetD4_POS Pin=D5-NEG
+Added Pin To Net: NetName=NetD4_POS Pin=TP4-PAD
+Added Net: Name=NetD4_POS
+Added Pin To Net: NetName=NetD5_POS Pin=D5-POS
+Added Pin To Net: NetName=NetD5_POS Pin=D6-NEG
+Added Pin To Net: NetName=NetD5_POS Pin=TP5-PAD
+Added Net: Name=NetD5_POS
+Added Pin To Net: NetName=NetD6_POS Pin=D6-POS
+Added Pin To Net: NetName=NetD6_POS Pin=D7-NEG
+Added Pin To Net: NetName=NetD6_POS Pin=TP6-PAD
+Added Net: Name=NetD6_POS
+Added Pin To Net: NetName=NetD8_NEG Pin=D8-NEG
+Added Pin To Net: NetName=NetD8_NEG Pin=D9-POS
+Added Net: Name=NetD8_NEG
+Added Pin To Net: NetName=NetD10_NEG Pin=D10-NEG
+Added Pin To Net: NetName=NetD10_NEG Pin=TP8-PAD
+Added Net: Name=NetD10_NEG
+Added Pin To Net: NetName=NetD10_POS Pin=D10-POS
+Added Pin To Net: NetName=NetD10_POS Pin=D11-NEG
+Added Pin To Net: NetName=NetD10_POS Pin=TP9-PAD
+Added Net: Name=NetD10_POS
+Added Pin To Net: NetName=NetD11_POS Pin=D11-POS
+Added Pin To Net: NetName=NetD11_POS Pin=D12-NEG
+Added Pin To Net: NetName=NetD11_POS Pin=TP10-PAD
+Added Net: Name=NetD11_POS
+Added Pin To Net: NetName=NetD12_POS Pin=D12-POS
+Added Pin To Net: NetName=NetD12_POS Pin=D13-NEG
+Added Pin To Net: NetName=NetD12_POS Pin=TP11-PAD
+Added Net: Name=NetD12_POS
+Added Pin To Net: NetName=NetD13_POS Pin=D13-POS
+Added Pin To Net: NetName=NetD13_POS Pin=D14-NEG
+Added Pin To Net: NetName=NetD13_POS Pin=TP12-PAD
+Added Net: Name=NetD13_POS
+Added Pin To Net: NetName=NetD15_NEG Pin=D15-NEG
+Added Pin To Net: NetName=NetD15_NEG Pin=D16-POS
+Added Net: Name=NetD15_NEG
+Added Pin To Net: NetName=NetD17_NEG Pin=D17-NEG
+Added Pin To Net: NetName=NetD17_NEG Pin=TP14-PAD
+Added Net: Name=NetD17_NEG
+Added Pin To Net: NetName=NetD17_POS Pin=D17-POS
+Added Pin To Net: NetName=NetD17_POS Pin=D18-NEG
+Added Pin To Net: NetName=NetD17_POS Pin=TP15-PAD
+Added Net: Name=NetD17_POS
+Added Pin To Net: NetName=NetD18_POS Pin=D18-POS
+Added Pin To Net: NetName=NetD18_POS Pin=D19-NEG
+Added Pin To Net: NetName=NetD18_POS Pin=TP16-PAD
+Added Net: Name=NetD18_POS
+Added Pin To Net: NetName=NetD19_POS Pin=D19-POS
+Added Pin To Net: NetName=NetD19_POS Pin=D20-NEG
+Added Pin To Net: NetName=NetD19_POS Pin=TP17-PAD
+Added Net: Name=NetD19_POS
+Added Pin To Net: NetName=NetD20_POS Pin=D20-POS
+Added Pin To Net: NetName=NetD20_POS Pin=D21-NEG
+Added Pin To Net: NetName=NetD20_POS Pin=TP18-PAD
+Added Net: Name=NetD20_POS
+Added Pin To Net: NetName=NetD22_NEG Pin=D22-NEG
+Added Pin To Net: NetName=NetD22_NEG Pin=D23-POS
+Added Net: Name=NetD22_NEG
+Added Pin To Net: NetName=NetD24_NEG Pin=D24-NEG
+Added Pin To Net: NetName=NetD24_NEG Pin=TP20-PAD
+Added Net: Name=NetD24_NEG
+Added Pin To Net: NetName=NetD24_POS Pin=D24-POS
+Added Pin To Net: NetName=NetD24_POS Pin=D25-NEG
+Added Pin To Net: NetName=NetD24_POS Pin=TP21-PAD
+Added Net: Name=NetD24_POS
+Added Pin To Net: NetName=NetD25_POS Pin=D25-POS
+Added Pin To Net: NetName=NetD25_POS Pin=D26-NEG
+Added Pin To Net: NetName=NetD25_POS Pin=TP22-PAD
+Added Net: Name=NetD25_POS
+Added Pin To Net: NetName=NetD26_POS Pin=D26-POS
+Added Pin To Net: NetName=NetD26_POS Pin=D27-NEG
+Added Pin To Net: NetName=NetD26_POS Pin=TP23-PAD
+Added Net: Name=NetD26_POS
+Added Pin To Net: NetName=NetD27_POS Pin=D27-POS
+Added Pin To Net: NetName=NetD27_POS Pin=D28-NEG
+Added Pin To Net: NetName=NetD27_POS Pin=TP24-PAD
+Added Net: Name=NetD27_POS
+Added Pin To Net: NetName=NetD29_NEG Pin=D29-NEG
+Added Pin To Net: NetName=NetD29_NEG Pin=D30-POS
+Added Pin To Net: NetName=NetD29_NEG Pin=J1-1
+Added Pin To Net: NetName=NetD29_NEG Pin=J1-4
+Added Net: Name=NetD29_NEG
+Added Pin To Net: NetName=NetD31_NEG Pin=D31-NEG
+Added Pin To Net: NetName=NetD31_NEG Pin=TP26-PAD
+Added Net: Name=NetD31_NEG
+Added Pin To Net: NetName=NetD31_POS Pin=D31-POS
+Added Pin To Net: NetName=NetD31_POS Pin=D32-NEG
+Added Pin To Net: NetName=NetD31_POS Pin=TP27-PAD
+Added Net: Name=NetD31_POS
+Added Pin To Net: NetName=NetD32_POS Pin=D32-POS
+Added Pin To Net: NetName=NetD32_POS Pin=D33-NEG
+Added Pin To Net: NetName=NetD32_POS Pin=TP28-PAD
+Added Net: Name=NetD32_POS
+Added Pin To Net: NetName=NetD33_POS Pin=D33-POS
+Added Pin To Net: NetName=NetD33_POS Pin=D34-NEG
+Added Pin To Net: NetName=NetD33_POS Pin=TP29-PAD
+Added Net: Name=NetD33_POS
+Added Pin To Net: NetName=NetD34_POS Pin=D34-POS
+Added Pin To Net: NetName=NetD34_POS Pin=D35-NEG
+Added Pin To Net: NetName=NetD34_POS Pin=TP30-PAD
+Added Net: Name=NetD34_POS
+Added Class: Name=SolarPanel4
+Added Room: Name=SolarPanel4

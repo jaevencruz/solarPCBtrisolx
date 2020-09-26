@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=NetD16_POS Pin=D15-NEG
+Change Net Name : Old Net Name=NetD16_POS New Net Name=NetD15_NEG

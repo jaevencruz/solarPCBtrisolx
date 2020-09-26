@@ -1,0 +1,239 @@
+*************************************************************
+FileName = SolarPanel.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 1
+      File : SolarPanel.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : SolarPanel.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : SolarPanel.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : SolarPanel.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : SolarPanel.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : SolarPanel.GM7
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : SolarPanel.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : SolarPanel.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : SolarPanel.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : SolarPanel.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : SolarPanel.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : SolarPanel.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : SolarPanel.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : SolarPanel.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : SolarPanel.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : SolarPanel.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : SolarPanel.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D29
+*************************************************************
+
